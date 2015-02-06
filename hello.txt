@@ -1,4 +1,4 @@
 hello eric
-new test
 hi eric, hello git
 hello，china
+delete new test
