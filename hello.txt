@@ -1,3 +1,4 @@
 hello eric
 new test
 hi eric, hello git
+你好，china
