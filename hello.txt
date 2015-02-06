@@ -1,2 +1,3 @@
 hello eric
 new test
+hi eric, hello git
