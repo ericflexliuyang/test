@@ -1,8 +1,9 @@
 ﻿hello eric
 hi eric, hello git
 hello，china
-delete new test
 add new line
 add new row
+hello eason hello eric
 clone OK!!!
 Sync is OK？
+OK.very nice!!!
