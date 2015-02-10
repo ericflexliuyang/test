@@ -1,6 +1,7 @@
-hello eric
+﻿hello eric
 hi eric, hello git
 hello，china
 delete new test
 add new line
 add new row
+clone OK!!!
