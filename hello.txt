@@ -5,3 +5,4 @@ delete new test
 add new line
 add new row
 clone OK!!!
+Sync is OK？
